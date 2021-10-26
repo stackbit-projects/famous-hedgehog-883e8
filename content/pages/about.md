@@ -1,5 +1,5 @@
 ---
-title: 'About,mn,nb,'
+title: Luis borello
 seo:
   title: About
   description: This is the about us page
